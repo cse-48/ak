@@ -28,6 +28,16 @@ const Table = () => {
           <td>PK</td>
           <td>49</td>
         </tr>
+        <tr>
+          <td>5</td>
+          <td>ankit</td>
+          <td>19</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>chaudhary</td>
+          <td>25</td>
+        </tr>
       </tbody>
     </table>
   );

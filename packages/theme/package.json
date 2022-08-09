@@ -7,6 +7,9 @@
   "files": [
     "css"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "types": "css/index.d.ts",
   "scripts": {
     "tsc": "tsc",
