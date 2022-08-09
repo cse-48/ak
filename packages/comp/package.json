@@ -1,11 +1,11 @@
 {
-  "name": "comp",
+  "name": "@cse-48/comp",
   "version": "1.6.0",
   "description": "",
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@ak"
+    "registry": "https://npm.pkg.github.com/cse-48"
   },
   "files": [
     "lib"

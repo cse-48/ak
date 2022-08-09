@@ -1,11 +1,11 @@
 {
-  "name": "theme",
+  "name": "@cse-48/theme",
   "version": "1.6.0",
   "description": "",
   "main": "css/cjs/index.js",
   "module": "css/esm/index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@ak"
+    "registry": "https://npm.pkg.github.com/cse-48"
   },
   "files": [
     "css"
@@ -27,5 +27,6 @@
     "rollup": "^2.77.2",
     "rollup-plugin-dts": "^4.2.2",
     "typescript": "^4.7.4"
-  }
+  },
+  "gitHead": "0573f8d38679484b8f02db0bf178978556e43467"
 }
