@@ -1,15 +1,15 @@
 {
-  "name": "@techhub/comp",
-  "version": "1.5.0",
+  "name": "comp",
+  "version": "1.0.0",
   "description": "",
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@ak"
+  },
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
   "scripts": {
     "tsc": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1",

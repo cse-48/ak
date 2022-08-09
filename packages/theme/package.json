@@ -1,15 +1,15 @@
 {
-  "name": "@techhub/theme",
-  "version": "1.5.0",
+  "name": "theme",
+  "version": "1.0.0",
   "description": "",
   "main": "css/cjs/index.js",
   "module": "css/esm/index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@ak"
+  },
   "files": [
     "css"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
   "scripts": {
     "tsc": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -27,6 +27,5 @@
     "rollup": "^2.77.2",
     "rollup-plugin-dts": "^4.2.2",
     "typescript": "^4.7.4"
-  },
-  "gitHead": "02accf4c9e3b3c41de7b07ba5972ccc61717c93b"
+  }
 }
