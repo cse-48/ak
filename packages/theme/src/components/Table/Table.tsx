@@ -4,7 +4,7 @@ const Table = () => {
     <table>
       <thead>
         <th>Id</th>
-        <th>Name</th>
+        <th>Name :</th>
         <th>Age</th>
       </thead>
       <tbody>
