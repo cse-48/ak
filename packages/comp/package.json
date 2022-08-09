@@ -1,7 +1,7 @@
 {
   "name": "@cse-48/comp",
   "version": "1.7.0",
-  "description": "",
+  "description": "comp",
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",
   "publishConfig": {
