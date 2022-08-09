@@ -1,6 +1,6 @@
 {
   "name": "@cse-48/theme",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "",
   "main": "css/cjs/index.js",
   "module": "css/esm/index.js",
