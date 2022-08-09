@@ -1,6 +1,6 @@
 {
   "name": "@techhub/theme",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "",
   "main": "css/cjs/index.js",
   "module": "css/esm/index.js",
