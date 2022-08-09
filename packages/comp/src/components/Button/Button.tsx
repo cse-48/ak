@@ -5,7 +5,7 @@ export interface ButtonProps {
 }
 
 const Button = (props: ButtonProps) => {
-  return <button data-testing-id="cta">{props.buttenText} recomp button</button>;
+  return <button data-testing-id="cta">{props.buttenText} recomp button a</button>;
 };
 
 export default Button;
