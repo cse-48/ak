@@ -1,5 +1,5 @@
 {
-  "name": "ak",
+  "name": "techhub",
   "private": true,
   "workspaces": [
     "packages/*"

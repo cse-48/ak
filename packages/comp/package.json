@@ -1,6 +1,6 @@
 {
-  "name": "@ak/comp",
-  "version": "1.0.0",
+  "name": "@techhub/comp",
+  "version": "1.0.1",
   "description": "",
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",

@@ -3,7 +3,7 @@ const Table = () => {
   return (
     <table>
       <thead>
-        <th>id</th>
+        <th>Id</th>
         <th>Name</th>
         <th>Age</th>
       </thead>
@@ -26,7 +26,7 @@ const Table = () => {
         <tr>
           <td>4</td>
           <td>PK</td>
-          <td>29</td>
+          <td>49</td>
         </tr>
       </tbody>
     </table>
